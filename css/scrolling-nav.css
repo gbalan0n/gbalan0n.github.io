@@ -4,14 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-/*Resume block section divs*/
-.left{
-       display: block;
-       float:left;
-       width:33%;
- }
-
-/*End block section divs*/
 
 /*Drop down buttons*/
 .dropbtn {

@@ -4,8 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-/*bullshit*/
-/*setup*/
+/*neon */
 *{
   margin: 0;
   padding: 0;
@@ -142,7 +141,6 @@ p:nth-child(6) a:hover{
 p a:hover{
 color:#ffffff;
 }
-
 
 
 /*glow for webkit*/
@@ -563,8 +561,8 @@ color:#ffffff;
 }
 
 
-/*REEEEEEEEEEESPONSIVE*/
-@media (max-width: 650px) {
+/*response*/
+@media (max-width: 650px) and (min-width: 375px) {
 
   #container{
     width: 100%;
@@ -575,7 +573,7 @@ color:#ffffff;
   }
 
 }
-/*end bullshit*/
+/*end neon*/
 
 
 /*Drop down buttons*/
